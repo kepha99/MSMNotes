@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5d6d20d7726bb9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "294fcb16549e955e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "044c9c1b5eb5c2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "scrp501/psalm_logs/Olbrych Psalm Logs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4d6fcdf9daee231",
+    "type": "split",
+    "children": [
+      {
+        "id": "c50badd34c6aa90c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746405fb18098208",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f612220bbe13d7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ede0a833ffdad051",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e94e559bbb85f5ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4bc5a6ef8c21a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9818ed9e10e005ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "scrp501/psalm_logs/Olbrych Psalm Logs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aee4e4ea6bf40e9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "scrp501/psalm_logs/Olbrych Psalm Logs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1334f285197c5256",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e64b7f48ef7597b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "scrp501/psalm_logs/Olbrych Psalm Logs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "044c9c1b5eb5c2a4",
+  "lastOpenFiles": [
+    "scrp501/SCRP 501 Syllabus (Fall 2024).pdf",
+    "scrp501/psalm_logs/Olbrych Psalm Logs.md",
+    "scrp501/psalm_logs/Olbrych_Psalms_Log.md"
+  ]
+}
