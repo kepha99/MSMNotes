@@ -29,6 +29,14 @@
 3-24 Reflection:
 
 
-25. 
+25. Wednesday Prime.  We return to the theme of the psalmist insisting on his innocence, and asking God to judge and test him.  The psalm prayed at the Lavabo from verse 6-end.
+26. Monday Terce, divided in two.  I primarily associate this psalm with its adaptation as an Introit (4th Sunday after Pentecost).  Dominus illuminatio mea et salus (vita) mea, quem timebo? etc.  It's one of the few antiphons constantly stuck in my head.  Speaks of trust in the Lord despite all else failing, and despite the tribulations of the enemies.  Reminiscent of Kirkegard's notion of sublimity -> The psalmist is secure in the midst of great trials, for he trusts in the Lord.
+27. Monday Terce. A plea for the Lord not to remove his presence, followed by a prayer for the Lord to come and render justice to the wicked.  Then the psalmist notes that the Lord _has_ heard his cry, and that the Lord is the strength of His people.  The psalm concludes with words used in the verse-response section at the end of the Te Deum.  Salvum fac populum tuum, Domine, et benedic hereditati tuae.
+28. Monday Lauds.  A majestic hymn of the immense power of the Lord's voice.  Aquinas notes that it was written on the occasion of the Ark of the Covenant being returned to the completed tabernacle in Jerusalem Jerusalem in 2 Samuel 6.  The English NO breviary alliterates verse 7 in a funny way that's fun to say: The Lord's voice flashes flames of fire -> it's also fun to say intercidentis flammam ignis.
+29. Monday Matins.  Dedication song for David's house.   This psalm is of thanksgiving after having been saved/forgiven by the Lord. A good penitential psalm to pray after confession.  Notable phrase introduction verse 7: "Ego autem dixi in abundantia mea" seems like it is repeated in psalm 30, and psalm 115 with some variations. 30:23 "Ego autem dixi in excessu mentis meae" and 115:2 "Ego dixi in excessu mea"  Aquinas notes that here the psalmist, in time of abundance/riches he became presumptuous and spoke pridefully -> and pride preceeds sin.  In the very next verse: "avertisti faciem tuam a me, et factus sum conturbatus."
+30. Monday Sext.  The beginning psalm seems to be the source for another common verse and response (see last prayer at end of Te Deum): "In Te, Domine, speravi; non confundar in aeternum."  Also, source for verse/response at compline every night, and Our Lord's words from the cross: "In manus tuas commendo spiritum meum; redemisti nos, Domine Deus veritatis."  This psalm of asking God to look upon his suffering servant was certainly present on Our Lord's mind during the Passion.
+31. Monday None. Another psalm with penitential theme - Blessed are those whose sins have been remitted!  This psalm notes the joy of those who have been forgiven, the pain of sin, that honesty before God is necessary for forgiveness.  I think of this line when approaching the confessional: Dixi, confitebor adversum me injustitiam meam Domino, et tu remisisti impietatum peccati mei.  Don't be like the stupid horses and mules >:(
+32. Monday None, divided in two.
+33. Wednesday Compline. 
 
-25-41Reflection:
+25-41 Reflection:
