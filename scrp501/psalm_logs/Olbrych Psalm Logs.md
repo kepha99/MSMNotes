@@ -36,7 +36,9 @@
 29. Monday Matins.  Dedication song for David's house.   This psalm is of thanksgiving after having been saved/forgiven by the Lord. A good penitential psalm to pray after confession.  Notable phrase introduction verse 7: "Ego autem dixi in abundantia mea" seems like it is repeated in psalm 30, and psalm 115 with some variations. 30:23 "Ego autem dixi in excessu mentis meae" and 115:2 "Ego dixi in excessu mea"  Aquinas notes that here the psalmist, in time of abundance/riches he became presumptuous and spoke pridefully -> and pride preceeds sin.  In the very next verse: "avertisti faciem tuam a me, et factus sum conturbatus."
 30. Monday Sext.  The beginning psalm seems to be the source for another common verse and response (see last prayer at end of Te Deum): "In Te, Domine, speravi; non confundar in aeternum."  Also, source for verse/response at compline every night, and Our Lord's words from the cross: "In manus tuas commendo spiritum meum; redemisti nos, Domine Deus veritatis."  This psalm of asking God to look upon his suffering servant was certainly present on Our Lord's mind during the Passion.
 31. Monday None. Another psalm with penitential theme - Blessed are those whose sins have been remitted!  This psalm notes the joy of those who have been forgiven, the pain of sin, that honesty before God is necessary for forgiveness.  I think of this line when approaching the confessional: Dixi, confitebor adversum me injustitiam meam Domino, et tu remisisti impietatum peccati mei.  Don't be like the stupid horses and mules >:(
-32. Monday None, divided in two.
-33. Wednesday Compline. 
+32. Monday None, divided in two.  A psalm of praise and exultation for a God who sustains His people.  The image of the ten stringed harp is in verse 2 -> perhaps an image for the decalogue and living according to the law as a form of praise.
+33. Wednesday Compline. An exhortation to trust and glorify the Lord, for he is generous, good, and keeps those who trust in him safe.
+34. Tuedsay Matins, divided in three. A prayer in time of persecution and plotting enemies who say "euge, euge! viderunt oculi nostri" with their mouths, despite their secret hatred and plotting.
+35. Thursday Lauds.
 
 25-41 Reflection:
