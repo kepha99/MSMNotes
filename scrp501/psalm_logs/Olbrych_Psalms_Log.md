@@ -56,4 +56,70 @@
 43. Tuesday None, divided in three. A brief recalling of the Lord's works for His chosen people as passed down from generation to generation (patres nostri annuntiaverunt nobis - Pieper alludes to this in his essay on tradition).  Then there is a long lament, almost sounding accusatory at points:  You have sold your people at no price... a theatrical gag and a laughing stock among our neighbors.  The end of the psalm is a repeated cry to God for help.
 44. Wednesday Matins, divided in two.  Just praying with this psalm in the new breviary, I always thought the whole psalm was about the daugher mentioned in verse 11, who is exhorted to forget her poeple and her father's house -> further reason for this is that a versicle from the old office in the common of the Blessed Virgin Mary uses the verse "specie tua, et pulchritudine tua" in what seems to be clear reference to Mary.  Only after closer inspection of Jerome's latin and our discussion in class did I realize that the first half of this psalm seems addressed to "the king," whom allegorically we can understand to be Our Lord.  The psalm forst speaks of the goodness and beauty and power of the king, and the second half is an exhortation to a daughter (zion?) to give herself in marriage to him ->  this is a royal wedding psalm!
 45. Wednesday Matins.  A psalm of praise in the Lord's power, and the confusion and futile fighting of the world.  The earth is shaken, but Israel is at peace, for the Lord is her strength and refuge.
-46. 
+46. Monday Lauds.  A short royal psalm.  the kingdom of God and an exhortation for the nations to exult unto Him.
+47. Wednesday Matins.  Transcendance of God - many references to the establishment of mount sion and the trembling of the nations at the establishment of God's city.
+48. Wednesday Matins, divided in two.  The man who trusts in his own riches and strength is a fool, but he who trusts in the Lord will be blessed in this life and the next.
+49. Wednesday Matins, divided in two.  The central image is God as supreme judge: he will preserve Israel on earth, not for sacrifice of bulls, but for their love and devotion.  The sinner is rebellious against providence.
+50. Wednesday Matins, and every day at Lauds II.  The strongest and most commonly known paenitential psalm in the psalter.  All sin is ultimately against God and God alone.  There is a plea for cleansing in body and soul.  After this, the psalmist will be able to return to God in right worship and instruct sinners in gladness.
+51. Wednesday Prime.  A strong rebuke against the sinful man who has taken delight in his iniquity, and a warning to him that God will enact justice.
+52. Wednesday Prime. "The fool has said in his heart" - an echo of psalm 13 at the beginning of this psalm provides the overarching theme.  All have fallen into sin and abandoned God -> but He will redeem Israel.
+53. Wednesday Terce.  A short petition for God's protection and judgement.
+54. Wednesday Terce, divided in two.  A prayer of complaint in distress of enemies and an imprecatory petition against them.
+55. Wedneday Sext. Continuing in the same theme as the preceeding psalms: the psalmist is in a time of persecution and has many enemies, but will hold fast to God, who continues to sustain and rescue him.
+56. Wednesday Sext.  A plea for mercy - the enemies have prepared a snare, have dug a pit for me, but have fallen into it themselves.  concludes with a slightly longer section of praise of God than the preceeding psalms.
+57. Wednesday Sext. The unjust speak of justice but don't follow through in action.  This psalm is a strong rebuke against the hypocritical.
+58. Wednesday None, divided in two.  Same theme as 54-56.  Interesting, the fifth verse contains a protestation of the psalmist's innocence - something we haven't seen in a little while.
+59. Wednesday None.  God raises up and God casts down - a psalm of God's almighty providence.  The nations will become wholly subject to God in the end - this is expressed in a series of images of God using the territories as lowly instruments - moab the washbowl, edom the footstool.
+60. Wednesday Compline. A song of hope, envisioning the arrival of God's kingdom where the king shall reign and be in communion with God in His tabernacle.
+61. Thursday Matins. This psalm takes the character of self-motivation -> the psalmist is exhorting first his own soul, then his people.
+62. Sunday Lauds.  As one of the Sunday Lauds 1 psalms, this one is memorized and often on the brain as a way of entering into prayer.  It speaks of the desire of the psalmist within the sanctuary as intense, long lasting, and even phisical.  He stands before the Lord as one in a place that is deserta, invia, et inaquosa. verses 6-10 note the joys of union with God.  11-12, censored from the most recent roman breviary, speak of the coming judgement upon the just king and the enemies who seek the psalmist's soul.
+63. Saturday Lauds. A prayer of petition consisting mainly of a image-laden list of the plots of the wicked against the just.
+64. Wednesday Lauds. A prayer of hope based on the Lord's transcendance as mirrored in the power, beauty, and providence of nature.
+65. A hymn of praise to God starting with an invitation to sing, and continuing with a litany to God's providence even in difficulty.
+66. A very short psalm constituted by a kind of intercessory benediction for Israel so that all the nations might come to know the Lord.
+67. The beginning of this psalm has become a common Catholic prayer of intercession against Satan.  Exurgat Deus et dissipentur inimici eius et fugiant qui oderunt eum a facie eius. - a verse often attached to images of the Veil of Veronica and other images of the Holy Face of Christ.  This psalm imagines the coming peaceful and transcendant kingdom of God.
+68. A long psalm of petition in a dark time - The psalmist is in a dark place and surrounded by enemies, weeping and afflicted.  Even the good the psalmist does seems to be held against him by men(11-13)
+69. A very short (6 verses!) psalm that seems to be drawn textually almost in entirety from earlier psalms.  I like the latin word here "erubescant" - It once was stuck in my head during a seven day silent retreat and that was pretty weird.
+70. This psalm notes the providence of God to the psalmist even from his mother's womb, brief petition to be freed from the hands of sinners, a petition for divine assistance even unto old age, and a statement of intention to praise the Lord in the church and with music.
+71. A petition for judgement, not upon the king, but seemingly asking God for a king who will rule with the right judgement of God.  The rest of the psalm imagines the rule of this king, which we can understand to refer prophetically to Christ and the Kingdom of Heaven.
+72. This psalm begins positively: a song of thanks for God who has given goodness to the psalmist on account of his right relationship with the Lord and for the repayment of failure to the wicked.  The ending changes tone: I am brought to nothing and knew not, I am become as a beast before thee, etc.  The psalm ends with a statement of the psalmist's burning desire for God.
+73. This psalm notes very strongly corporate persecution of God's people: they are cut down like grass.  Ends with a petition for divine help.
+74. A triumphant hymn and a warning to sinners.  We will praise thee, God, for thy majesty and providence.  Do not act against Him, for he is judge over all.  Here is used the image of a cup of unmixed wine (which doesn't sound so bad to me, but I digress) of which the sinners must drink "the dregs." (which I guess does seem less enjoyable)
+75. A song of God's transcendance who will break the powers of man characterized by the images of bow, shield, and sword.  God will be ultimately triumphant - pay Him homage!
+76. A psalm that has two sections - the first is a kind of rhetorical questioning of God's providence in a time of suffering, the second is a recollection of God's providence towards Israel.  This recollection comforts and gives hope to the psalmist.
+77. A brief poetic summary of Israel's history in relation to God's providential care.  An exhortation not to forget these things, but to pass them down from generation to generation lest they be forgotten.
+78. This psalm is a protest to God concerning the evils suffered - including images of the heathens defiling the temple.  Then there is a deprecatory part, then a petetive part with an imagining of recompense.
+79. Same as the last psalm, but less angry and more depressed.  How I feel when I sit down to do psalm logs.
+80. Like psalm 77, containing an account of God's historical providence.  This one takes the form of a jubilous song.
+81. A short psalm of petition for rescue and a warning to those who follow false gods.  The mention of god standing amidst a congregation of 'gods' is interesting.  It seems that they are not seriously countenancing the gods of the heathens as actually being deities, but to emphasize perhaps that even if these beings have power (on account of them being demons or something) God is wholly transcendant.
+82. An imprecatory psalm recalling the historical actions of the heathens against Israel.
+83. A wonderfully beautiful and balanced psalm of delight in union with God.  The delights found in the Lord's House.  This is another psalm fittingly chosen for Sunday Lauds 1.
+84. A song of thanksgiving to a merciful and generous God.  Again, I think this with psalm 62 and 83 one of the most beautiful psalms in the psalter, and most present on my mind.
+85. An extended petition for God's help - similar to the preceeding psalms, there may be a protestation of the attacks of the wicked, but it seems to be less dark in mood, and from a place of security in God, maybe because the psalmist is looking back upon these persecutions from a later time of security.
+86. A hymn of Praise to God's mountain Sion.
+87. One of the darkest (the darkest?) psalms in the psalter.  the psalmist feels alone and abandoned even by God himself.  Traditionally was prayed by Our Lord while imprisoned in the High Priest's house.
+88. Explicit reference to the rule of David - how the Lord is providential, yet allows his beloved ones to suffer persecution.  There is a petition to the Lord to stay His hand, and to take mercy upon His servant.
+89. A petition for God's help and an act of humility on account of the psalmist who notes the futility of man and the relative shortness of his life.
+90. A song of confidence in God, noting that though all seems lost, God protects us with his hosts of angels and mighty power.
+91. A hymn of praise to God who has given the psalmist victory and fruitfulness even to old age.
+92. One of the "Dominus Regnavit" psalms.  A short and triumphant acclamation of the glory of God's reign.
+93. This psalm notes the seeming triumph of sinners upon earth, but recalls the ultimate judgement that will be rendered by God.
+94. The invitatory psalm prayed every day before matins.  A song exhorting to praise and to the softening of hearts toward the Lord, recalling the wandering of the israelites in the desert.
+95. A song of praise to God exhorting the listener to ritual sacrifice and worship.
+96. Another "Dominus Regnavit" psalm - this one referring to nature as a manifestation of God's glory and power, his transcendance over man, and an exhortation to praise.
+97. A psalm of rejoicing, exhorting the listener to praise God upon instruments and with song.
+98. Yet another "Dominus Regnavit" psalm this one noting that the nations are enraged against Him.  An exhortation to adore almighty God, recalling his historical providence and the figures of Moses and Aaron.
+99. A very short song of invitation to sing joyfully to God and to enter his temple, for the Lord is sweet and his mercy endureth forever.
+100. David recalls here his rule on earth -> that he acted justly and in accord with the law of God, loving Justice and hating iniquity.
+101. A paenitential psalm - best characterized by its own introduction: a prayer of the poor man when he was anxious and poured out his supplication before the Lord.  It's a pretty dark psalm.
+102. An exhortation to self: bless the Lord, my soul!  The rest of the psalm will tell us why we should bless Him: He is just and merciful, he is like a father to those who fear him, he will keep them safe in perpetuity.
+103. A second exhortation beginning with the same words as the previous psalm.  This one tells us that we should bless the Lord because of his providence in the ordering of nature in all its majesty and terror.  Kirkegaardian in its imagery of terible beasts in a place of order: The sea dragon plays in the sea, the young lions seek their meat from God.
+104. A song of exhortation to glory in God, recalling salvation history from Abraham until the posession of the land of Israel.  Great focus here upon the Exodus.
+105.  This is the same as the previous psalm, but with more emphasis on the unworthiness of the fathers of God's merciful providence which serves to intensify it.
+106. Another exhortation to give Glory to the Lord.  This one is less historical and more proverbial -> a kind of meta analysis of the cycle of providence, rebellion, petition for mercy, and restoration seen in the history of the Israelites.
+107. A song of praise in the morning for God's providence -> the imagery of the nations as lowly tools returns.  Through God alone we shall succeed.
+108. This is the funny psalm.  It was stricken in entirety from the psalter in the most recent edition of the Roman Brievary.  There are some creative curses against the deceitful man at whose hand the psalmist has suffered detraction.  A petition for Divine assistance.
+109. Dixit Dominus - Used by Our Lord to teach that He is the Messiah spoken of in the new testament. Lots of good bits here: tu es sacerdos, ex utero ante luciferum genui te, etc.  The eternal priesthood.
+110. A psalm of praise of God, noting that He takes the goods of the Gentiles and gives them to His own people.
+111. Blessed the man who fears the Lord: this is a brief indication of the beauty and goodness of the upright life, and the Lord's providence to the one who lives rightly.
+112. 
